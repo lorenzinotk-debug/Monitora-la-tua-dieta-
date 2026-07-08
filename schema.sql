@@ -52,4 +52,4 @@ CREATE TABLE password_reset_tokens (
 CREATE INDEX idx_encrypted_records_user ON encrypted_records(user_id);
 CREATE INDEX idx_reset_tokens_user ON password_reset_tokens(user_id);
 
--- con dedizione da Lorenzo
+-- By Lorè
