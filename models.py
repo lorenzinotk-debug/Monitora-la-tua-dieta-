@@ -54,4 +54,4 @@ class PasswordResetToken(Base):
     used: Mapped[bool] = mapped_column(Boolean, default=False)
     created_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), default=datetime.utcnow)
 
-# con dedizione da Lorenzo
+# by Lore per py py py py 
