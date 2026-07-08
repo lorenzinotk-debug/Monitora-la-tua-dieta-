@@ -1,6 +1,6 @@
 import httpx
 import secrets
-
+# check pw
 BASE = "http://localhost:8000"
 c = httpx.Client(base_url=BASE, timeout=10)
 
@@ -80,4 +80,4 @@ ok("il server tratta il record come blob opaco", get_rec.json()["ciphertext"] ==
 
 print("\n✅ TUTTI I 12 TEST PASSATI — backend funzionante end-to-end")
 
-# con dedizione da Lorenzo
+
