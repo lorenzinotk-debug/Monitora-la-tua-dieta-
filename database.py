@@ -64,4 +64,4 @@ def get_email_sender():
         return SMTPEmailSender()
     return LogEmailSender()
 
-# con dedizione da Lorenzo
+# by Lorè
