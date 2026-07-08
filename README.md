@@ -71,4 +71,4 @@ perché chiamino questi endpoint. La cifratura lato browser resta identica,
 cambia solo dove viaggiano i blob.
 
 ---
-con dedizione da Lorenzo
+Spero possa esservi utile, By Lorè
