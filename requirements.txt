@@ -9,4 +9,4 @@ pydantic[email]==2.13.4
 python-multipart
 cryptography==46.0.6
 
-# con dedizione da Lorenzo
+# by Lorè
